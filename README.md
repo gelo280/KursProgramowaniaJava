@@ -1,2 +1,0 @@
-# KursProgramowaniaJava
-;l;
